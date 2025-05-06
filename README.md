@@ -1,8 +1,8 @@
 ## Hi there ,I'm Chaithra ✨
 
-🎓 I’m a Computer Science student at Chaitanya Bharathi Institute of Technology
-🌱 Currently learning Cybersecurity, exploring areas like ethical hacking, digital forensics, vulnerability assessment, and tools such as Burp Suite, OWASP Juice Shop, Wireshark, and Kali Linux.
-🚀 I'm building cool stuff and always open to collaborating on AI/ML, IoT, and cybersecurity ideas!
+🎓 I’m a Computer Science student at Chaitanya Bharathi Institute of Technology<br>
+🌱 Currently learning Cybersecurity, exploring areas like ethical hacking, digital forensics, vulnerability assessment, and tools such as Burp Suite, OWASP Juice Shop, Wireshark, and Kali Linux.<br>
+🚀 I'm building cool stuff and always open to collaborating on AI/ML, IoT, and cybersecurity ideas!<br>
 
 
 ## 🌐 Socials:
